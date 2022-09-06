@@ -1,18 +1,18 @@
 
-.principal {
+#principal {
     align-items: center;
 }
 
 
-.lista_principal {
+#lista_principal {
     left: 0;
     font-size: 1.2rem;
 }
 
-.icones {
+#icones {
     display: inline-block;
 }
 
-.guerreiro {
+#guerreiro {
     vertical-align: top;
 }
