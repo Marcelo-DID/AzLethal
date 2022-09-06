@@ -15,7 +15,7 @@
 
 .imagem-guerreiro {
     display: flex;
-    align-items: flex-end;
+    justify-items:flex-end
 }
 
 .guerreiro {
