@@ -6,7 +6,7 @@
   <ul id='lista_principal'>
   <li>- 🚀 I’m currently learning Back-End with JavaScript by Alura...</li>
   <li>- 🤔 I’m looking for help with JavaScript</li>
-  <li>- 📫 How to reach me: <a class="mail" href="mailto:marcelo14axl@gmail.com"> marcelo14axl@gmail.com</a></li>
+  <li>- 📫 How to reach me: <a id="mail" href="mailto:marcelo14axl@gmail.com"> marcelo14axl@gmail.com</a></li>
   <li>- 😄 Pronouns: He/His</li>
   </ul>
   <a href="https://github.com/AzLethal">
