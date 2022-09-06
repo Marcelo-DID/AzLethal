@@ -2,7 +2,7 @@
 <head>
   <link rel='stylesheet' href='./stylereadme.css'>
 </head>
-<div class="principal">
+<!-- <div class="principal">
   <ul class='lista_principal'>
   <li>- 🚀 I’m currently learning Back-End with JavaScript by Alura...</li>
   <li>- 🤔 I’m looking for help with JavaScript</li>
@@ -36,4 +36,4 @@
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+</div> -->
