@@ -14,7 +14,8 @@
 }
 
 .imagem-guerreiro {
-    text-align: right;
+    display: flex;
+    align-items: flex-end;
 }
 
 .guerreiro {
