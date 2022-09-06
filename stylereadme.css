@@ -12,3 +12,10 @@
 .icones {
     display: inline-block;
 }
+
+.guerreiro {
+    align-items: flex-end;
+    height: 180px;
+    border-radius: 10px;
+    
+}

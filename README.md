@@ -18,7 +18,7 @@
   <img align="center" alt="icone-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="icone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="icone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="icone-pic" height="150" style="border-radius:50px;" src="./img/anjo.jpg">
+  <img class='guerreiro' alt="icone-pic" src="./img/anjo.jpg">
 </div>
   
   ##
