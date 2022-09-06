@@ -1,24 +1,22 @@
 ### Hi there! My Name is Marcelo Oliveira!!👋
-<head>
-  <link rel='stylesheet' href='./stylereadme.css'>
-</head>
-<div id="principal">
-  <ul id='lista_principal'>
-  <li>- 🚀 I’m currently learning Back-End with JavaScript by Alura...</li>
-  <li>- 🤔 I’m looking for help with JavaScript</li>
-  <li>- 📫 How to reach me: <a id="mail" href="mailto:marcelo14axl@gmail.com"> marcelo14axl@gmail.com</a></li>
-  <li>- 😄 Pronouns: He/His</li>
+
+<div>
+  <ul>
+    <li>- 🚀 I’m currently learning Back-End with JavaScript by Alura...</li>
+    <li>- 🤔 I’m looking for help with JavaScript</li>
+    <li>- 📫 How to reach me: <a id="mail" href="mailto:marcelo14axl@gmail.com"> marcelo14axl@gmail.com</a></li>
+    <li>- 😄 Pronouns: He/His</li>
   </ul>
   <a href="https://github.com/AzLethal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AzLethal&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzLethal&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-<div id='icones'><br>
+<div><br>
   <img align="center" alt="icone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="icone-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="icone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="icone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" id='guerreiro' alt="icone-pic" height="50" width="60" src="./img/anjo.jpg">
+  <img align="right" style="border-radius: 50px" alt="icone-pic" height="50" width="60" src="./img/anjo.jpg">
 </div>
   
   ##
