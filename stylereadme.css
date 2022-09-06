@@ -9,6 +9,10 @@
     font-size: 1.2rem;
 }
 
+#mail {
+    color: greenyellow;
+}
+
 #icones {
     display: inline-block;
 }
