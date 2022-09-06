@@ -13,8 +13,11 @@
     display: inline-block;
 }
 
-.guerreiro {
+.imagem-guerreiro {
     text-align: right;
+}
+
+.guerreiro {
     border-radius: 10px;
 
 }
