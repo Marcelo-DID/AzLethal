@@ -1,9 +1,9 @@
 ### Hi there! My Name is Marcelo Oliveira!!👋
 <head>
-  <link rel='stylesheet' href='./stylereadme.css'
+  <link rel='stylesheet' href='./stylereadme.css'>
 </head>
-<!-- <div align="center">
-  <ul class='lista-principal'>
+<div class="principal">
+  <ul class='lista_principal'>
   <li>- 🚀 I’m currently learning Back-End with JavaScript by Alura...</li>
   <li>- 🤔 I’m looking for help with JavaScript</li>
   <li>- 📫 How to reach me: <a class="mail" href="mailto:marcelo14axl@gmail.com"> marcelo14axl@gmail.com</a></li>
@@ -36,4 +36,4 @@
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-</div> -->
+</div>
