@@ -13,14 +13,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AzLethal&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzLethal&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-<div class='icones'><br>
+< class='icones'><br>
   <img align="center" alt="icone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="icone-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="icone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="icone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <div class='imagem-guerreiro'>
-    <img class='guerreiro' alt="icone-pic" height="50" src="./img/anjo.jpg">
-  </div>
+  <img align="right" class='guerreiro' alt="icone-pic" height="50" width="60" src="./img/anjo.jpg">
 </div>
   
   ##

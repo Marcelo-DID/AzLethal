@@ -12,13 +12,3 @@
 .icones {
     display: inline-block;
 }
-
-.imagem-guerreiro {
-    display: flex;
-    justify-items:flex-end
-}
-
-.guerreiro {
-    border-radius: 10px;
-
-}
