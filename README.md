@@ -7,9 +7,6 @@
     <li>- 📫 How to reach me: <a id="mail" href="mailto:marcelo14axl@gmail.com"> marcelo14axl@gmail.com</a></li>
     <li>- 😄 Pronouns: He/His</li>
   </ul>
-  <a href="https://github.com/AzLethal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AzLethal&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzLethal&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div><br>
   <img align="center" alt="icone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
